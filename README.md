@@ -1,23 +1,22 @@
 # ✸ study notes 📖
 
-this repository contains my **personal study notes**, jupyter notebooks, and exploratory experiments across various areas of programming and computer science.
+um registro da minha jornada de aprendizado em programação e ciência da computação.
+não é um curso nem tutorial! é só um acompanhamento honesto do que estou estudando e do que quero revisitar.
 
-the goal is to create a clean, organized space to document concepts, practice implementations, and **track my learning progress** over time. so that I can revisit and expand as I learn.
+---
 
+## ✮ conteúdo
 
-## ✮ topics studied so far 
-* Machine Learning
-  * Clustering
-    * K-Means
+cada tópico fica na sua própria pasta e pode conter:
 
-## ✮ organization style
-each major topic has its own dedicated folder.
+- `README.md` — visão geral e contexto do tópico
+- `notes.md` — teoria, explicações e insights pessoais
+- notebooks `.ipynb` e/ou códigos — experimentos e implementações práticas
 
-each folder may contain:
-* a `README.md` with an overview of the topic
-* a `notes.md` file with notes, theoretical explanations and insights
-* jupyter notebooks (.ipynb) with experiments and implementations
+---
 
-### naming pattern:
-* topic_description.ipynb
-* example: kmeans_clustering.ipynb
+### ✮ contribuições 🤝
+encontrou algum erro conceitual ou erro de digitação nas minhas notas? sinta-se à vontade para abrir uma *[issue](https://github.com/d-olivr/study-notes/issues)* ou enviar um *[pull request](https://github.com/d-olivr/study-notes/pulls)*. toda ajuda é bem-vinda!
+
+---
+*sempre em construção. ꩜ ⋆⭒˚｡⋆
